@@ -14,7 +14,7 @@ Este projeto implementa e compara três algoritmos de otimização para resolver
 
 Requisitos
 
-- Python 3.x (versão utilizada: XX.XX.XX)
+- Python 3.x (versão utilizada: 3.12.3)
 - Bibliotecas listadas no arquivo requirements.txt
 
 Instalação
