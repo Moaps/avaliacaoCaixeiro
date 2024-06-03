@@ -37,4 +37,4 @@ Este projeto implementa e compara três algoritmos de otimização para resolver
 ### Opção 3: Executando o programa a partir do código-fonte
 
 1. No diretório do projeto, execute:
-   python main.py
+   `python main.py`
